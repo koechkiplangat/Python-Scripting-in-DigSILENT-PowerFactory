@@ -28,7 +28,13 @@ This creates an isolated environment that you can run your scripts
   
 ![image](https://github.com/koechkiplangat/Python-Scripting-in-DigSILENT-PowerFactory/assets/37098206/032e6af3-f946-4aab-a89f-d082f1e42e1d)
 
-On the toolbars, click on Data then Scripts.
+On the toolbars, click on Data then Scripts. A Projects Folder, Library/Scripts opens up as shown below
+
+![tempsnip](https://github.com/koechkiplangat/Python-Scripting-in-DigSILENT-PowerFactory/assets/37098206/82edc1b7-7082-46f1-a5f3-bacf0d411031)
+
+Select New Object (Circled in Red). The Element selection panel will pop up, choose PythonScripts (ComPython). Upload the script file from its  folder and  execute it.
+
+This will execute the script in PowerFactory
 
 
 
