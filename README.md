@@ -38,7 +38,8 @@ This will execute the script in PowerFactory
 
 ###Test Grid
 
-The Brazillian Seven bus equivalent system is used as the test grid for this project. A digsilent file of this project is available the code section as a .dz file
+The Brazillian Seven bus equivalent system is used as the test grid for this project. 
+A digsilent file of this project is available the code section as a .dz file. Upload this file to your powerfactory and activate the network grid and the study case.
 More information regarding this grid can be found in these two references.
 
 - https://icseg.iti.illinois.edu/brazilian-7-bus-system/#:~:text=This%207%2Dbus%2C%205%2D,small%2Dsignal%20stability%20related%20works.
