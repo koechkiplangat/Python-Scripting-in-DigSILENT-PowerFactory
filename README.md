@@ -36,7 +36,7 @@ py -3  -m venv venv
 
 This will execute the script in PowerFactory
 
-###Test Grid
+### Test Grid
 
 The Brazillian Seven bus equivalent system is used as the test grid for this project. 
 A digsilent file of this project is available the code section as a .dz file. Upload this file to your powerfactory and activate the network grid and the study case.
